@@ -6,6 +6,6 @@
 
 <p align="center"><strong>What?</strong> I can basicly design, write out a compelling software architecture and produce clean code. To be more specific in the sense of languages: Java, Kotlin, TypeScript, JavaScript, Sass, HTML, CSS and a few more. Lets finish this question with a small list of techiques and tools I've mastered: GIT, OOP, SCRUM, Illustrator, FIGMA, to name a few.</p>
 
-<p align="center"><strong>How?</strong> You can reach me using on/by: <a href="https://www.linkedin.com/in/maxvessen/"><code>linkedin</code></a>, <a href="mailto:hello@puuu.sh"><code>email</code></a> or <code>line</code></p>
+<p align="center"><strong>How?</strong> You can reach me using on/by: <a href="https://www.linkedin.com/in/maxvessen/"><code>linkedin</code></a> or <a href="mailto:hello@puuu.sh"><code>email</code></a></p>
 
 <p align="center"><strong>Why?</strong> Why not?</p>
