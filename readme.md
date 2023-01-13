@@ -9,3 +9,5 @@
 <p align="center"><strong>How?</strong> You can reach me on <a href="https://www.linkedin.com/in/maxvessen/">linkedin</a> or by sending me an <a href="mailto:hello@hypuh.com">email</a>.</p>
 
 <p align="center"><strong>Why?</strong> Why not?</p>
+
+<p align="center"><sub><a href="https://github.com/Maxymillion">🦸‍♂️</a></sub></p>
