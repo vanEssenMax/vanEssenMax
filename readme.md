@@ -10,4 +10,4 @@
 
 <p align="center"><strong>Why?</strong> Why not?</p>
 
-<p align="center"><sub><a href="https://github.com/Maxymillion">🦸‍♂️</a></sub></p>
+<p align="center"><sub><a href="https://github.com/Maxymillion" target="_blank">🦸‍♂️</a></sub></p>
