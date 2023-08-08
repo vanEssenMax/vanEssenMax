@@ -16,6 +16,8 @@
   <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white" /></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-5382a1.svg?logo=Java&logoColor=white" /></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white" /></a>
+  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-111111.svg?logo=Rust&logoColor=white" /></a>
+  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white" /></a>
 </p>
 <h4 align="center">Most used frameworks</h3>
 <p align="center">
