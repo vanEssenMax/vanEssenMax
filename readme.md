@@ -1,5 +1,5 @@
 <h3 align="center">👋, I'm Max</h3>
-<p align="center"><code>developer</code> <code>designer</code> <code>prototyper</code></p>
+<p align="center"><code>developer</code> <code>architect</code> <code>designer</code> <code>prototyper</code></p>
 <p align="center"><strong>Where?</strong> I'm currently working at <a href="https://stimmt.digital" target="_blank">Stimmt Digital</a>.</p>
 
 <p align="center"><strong>Who?</strong><i> Traveling through time in a blue police box, which is bigger on the...</i>Oops wrong guy, great show tho. I'm from the Netherlands, Enschede to be exact. I believe applications should be elegant in design as well as code, writing the least code possible. When I'm not thinking about random applications I should most certainly build, I'm writing stories, watching tv shows, discovering new random facts or taking long walks.</p>
