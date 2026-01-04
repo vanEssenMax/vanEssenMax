@@ -31,5 +31,3 @@
   <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white" /></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelIJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white" /></a>
 </p>
-
-<p align="center"><sub><a href="https://github.com/Maxymillion" title="Alter ego" target="_blank">🦹</a></sub></p>
